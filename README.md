@@ -23,8 +23,11 @@ You can see, how "Fortuna 1 liga" (This is name of our second division) looked a
 You can insert details from current sezon, and update table alive.
 
 ### - Mapa Polski
-Past fifteen years I worked as sales representative, so I had been rideing a lot by using Google Maps.
+Past fifteen years I worked as sales representative, so I had been driving a car a lot by using Google Maps.
 I'm allways wondering, how it's like to make a map.
 That was my first thing, when i started study SQL, so I made a very small part of it.
 
 ### - Obliczanie pól 
+This is very simple project.
+You can count field for few shapes like triangle,  rectangle, square or circle.
+Why i did it? I don't know... This is one of the first thing which I made during lerning SQL.
