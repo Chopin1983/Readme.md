@@ -8,9 +8,8 @@ It consists of four parts
 ## Obliczanie pól
 
 ### - Terminy produktu (expiry date) 
-Was created, because in company where I work, we geting things to wear,
+Was created, because in company where I work, we geting things to wear for free,
 but everyone has different "expiry date".
-This things are for free, but everyone has different "expiry date".
 What its mean? 
 You can buy some t-shirt, but only one in one year period.
 You can buy shose, but this time only one couple in two years period.
