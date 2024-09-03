@@ -18,3 +18,13 @@ Because nobody care about this, i think to my self 'Maybe i do something interes
 And this is how this project had started.
 
 ### - Fortuna-1-liga
+This project was created, because I'm football fan, and my love club play in second division "I don't know how it happend".
+You can see, how "Fortuna 1 liga" (This is name of our second division) looked after 33 rounds, detail every match.
+You can insert details from current sezon, and update table alive.
+
+### - Mapa Polski
+Past fifteen years I worked as sales representative, so I had been rideing a lot by using Google Maps.
+I'm allways wondering, how it's like to make a map.
+That was my first thing, when i started study SQL, so I made a very small part of it.
+
+### - Obliczanie pól 
