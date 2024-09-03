@@ -23,7 +23,7 @@ You can see, how "Fortuna 1 liga" (This is name of our second division) looked a
 You can insert details from current sezon, and update table alive.
 
 ### - Mapa Polski (Polish map)
-Past fifteen years I worked as sales representative, so I had been driving a car a lot by using Google Maps.
+About fifteen years I worked as sales representative, so I had been driving a car a lot by using Google Maps.
 I'm allways wondering, how it's like to make a map.
 That was my first thing, when i started study SQL, so I made a very small part of it.
 
