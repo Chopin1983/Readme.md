@@ -7,11 +7,15 @@ It consists of four parts
 ## Mapa Polski
 ## Obliczanie pól
 
-### - Terminy produktu (product term) - was create, because in company where i work, we deserve for things for wearing.
-This things are for free, but everyone has different "product term".
-It's depend what you buy. If you buy some footwear, next you can buy in two years.
-If you buy some shirt, next you can buy in one year. For more details, I invite you to check this project.
-Because nobody care about this, i think to my self 'Maybe i do something interesting?'
+### - Terminy produktu (expiry date) 
+Was created, because in company where I work, we geting things to wear, for free,
+but everyone has different "expiry date".
+This things are for free, but everyone has different "expiry date".
+What its mean? 
+You can buy some t-shirt, but only one in one year period.
+You can buy some shose, but this time only one i two years period.
+For more details, I invite you to check this project.
+Because nobody care about it, i think to my self 'Maybe i do something interesting?'
 And this is how this project had started.
 
 ### - Fortuna-1-liga
