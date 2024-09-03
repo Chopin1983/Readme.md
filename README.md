@@ -8,7 +8,7 @@ It consists of four parts
 ## Obliczanie pól
 
 ### - Terminy produktu (expiry date) 
-Was created, because in company where I work, we geting things to wear for free,
+Was created, because in company where I work, we're geting things to wear for free,
 but everyone has different "expiry date".
 What its mean? 
 You can buy some t-shirt, but only one in one year period.
