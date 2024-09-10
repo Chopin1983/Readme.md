@@ -43,8 +43,8 @@ Why i did it? I don't know... This is one of the first thing which I made during
 - Insert values into these tables using INSERT INTO for Position, and BULK INSERT for the rest.
   If You want to Insert Your values, You have to Insert them by:
 
-  Examples:
-     '''sql "INSERT INTO Products (ID_Product,Position,Product_Name,Expiry_Date,Refund_Amount)
+  Examples:   '''sql
+            "INSERT INTO Products (ID_Product,Position,Product_Name,Expiry_Date,Refund_Amount)
              Values ('1A',1,'Ubranie robocze (bluza, spodnie)',48,170)
 
             "INSERT INTO Employee (ID_Employee,Name,Last_Name,Street,Nr_Building,Nr_Apartment,City,Zip,PESEL,Phone,Sex,ID_Position)
