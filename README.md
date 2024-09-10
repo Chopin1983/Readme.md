@@ -44,7 +44,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
   If You want to Insert Your values, You have to Insert them by:
 
   Examples:
-  '''sql
+             '''sql
             "INSERT INTO Products (ID_Product,Position,Product_Name,Expiry_Date,Refund_Amount)
              Values ('1A',1,'Ubranie robocze (bluza, spodnie)',48,170)
 
