@@ -39,6 +39,21 @@ Why i did it? I don't know... This is one of the first thing which I made during
 #  Install
 
 ##  Terminy produktu
-1 - Create table -> Stanowiska, Produkty, Pracownik , Tranzakcje.
+- Create table -> Positions, Products, Employee, Transaction in this order.
+- Insert values into these tables using INSERT INTO for Position, and BULK INSERT for the rest.
+  If You want to Insert Your values, You have to Insert them by:
 
-2 - Insert values to this tables, or use mine to see how it works (bulk insert)
+  Examples:
+     '''sql "INSERT INTO Products (ID_Product,Position,Product_Name,Expiry_Date,Refund_Amount)
+             Values ('1A',1,'Ubranie robocze (bluza, spodnie)',48,170)
+
+            "INSERT INTO Employee (ID_Employee,Name,Last_Name,Street,Nr_Building,Nr_Apartment,City,Zip,PESEL,Phone,Sex,ID_Position)
+             Values (1,'Sebastian','Es','Drogowa',12,7,Kraków,30000,12345678900,790000000,'M',1)
+
+            "INSERT INTO Transactions (Nr,Foreign_Number,Company,TIN,Product_Name,Product_Value,Date_Od_Purchase,ID_Product,ID_Employee)
+             Values (1,'FA/2022/11','Guliwer',2345678901,'Bluza',230.00,'2022-11-12','1A',2)
+
+
+
+- Create View Term_Table. Now You can see every not expire products
+- 
