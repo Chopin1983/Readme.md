@@ -39,5 +39,5 @@ Why i did it? I don't know... This is one of the first thing which I made during
 # - Install
 
 ## - Terminy produktu
-1 - Create table -> Stanowiska, Produkty, Pracownik , Tranzakcje
+1 - Create table -> Stanowiska, Produkty, Pracownik , Tranzakcje.
 2 - Insert values to this tables, or use mine to see how it works (bulk insert)
