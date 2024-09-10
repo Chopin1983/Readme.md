@@ -32,12 +32,13 @@ This is very simple project.
 You can count field for few shapes like triangle,  rectangle, square or circle.
 Why i did it? I don't know... This is one of the first thing which I made during lerning SQL.
 
-# - Technology used
+#  Technology used
 - SQL/T-SQL
 - MSSQL
 
-# - Install
+#  Install
 
-## - Terminy produktu
+##  Terminy produktu
 1 - Create table -> Stanowiska, Produkty, Pracownik , Tranzakcje.
+
 2 - Insert values to this tables, or use mine to see how it works (bulk insert)
