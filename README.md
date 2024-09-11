@@ -15,7 +15,7 @@ You can buy some t-shirt, but only one in one year period, and You can spend for
 Of course You can buy more expensive clothes, but You have to pay for difference between reimbursement and product value.
 You can also buy shoes, but this time only couple in two years period, and You have for that 250zł.
 For more details, I invite you to check this project.
-Because nobody care about it, i think to my self 'Maybe i do something interesting, that what can help"
+Because nobody care about it, i think to my self 'Maybe I'll do something interesting, that what can help"
 And this is how this project started.
 
 ## - Fortuna-1-liga (Fortuna first league)
