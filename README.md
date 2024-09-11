@@ -13,10 +13,10 @@ but everyone has different "expiry date", and reimbursement amount.
 What its mean? 
 You can buy some t-shirt, but only one in one year period, and You can spend for it 100zł.
 Of course You can buy more expensive clothes, but You have to pay for difference between reimbursement and product value.
-You can buy shoes, but this time only couple in two years period.
+You can also buy shoes, but this time only couple in two years period, and You have for that 250zł.
 For more details, I invite you to check this project.
-Because nobody care about this, i think to my self 'Maybe i do something interesting, that what can help"
-And this is how this project had started.
+Because nobody care about it, i think to my self 'Maybe i do something interesting, that what can help"
+And this is how this project started.
 
 ## - Fortuna-1-liga (second division in Polish football league)
 This project was created, because I'm football fan, and my love club play in second division "I don't know how it happend".
