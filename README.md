@@ -26,11 +26,11 @@ You can insert details from current season and update table alive.
 ## - Mapa Polski (Polish map)
 About fifteen years I worked as sales representative, so I had been driving a car a lot by using Google Maps.
 I'm allways wondering, how it's like to make a map.
-That was my first thing, when i started study SQL, so I made a very small part of it.
+That was my first thing, when I started study SQL, so I made a very small part of it.
 
 ## - Obliczanie pól (field counting)
 This is very simple project.
-You can count field for few shapes like triangle,  rectangle, square or circle.
+You can calculate fields for few shapes like triangle,  rectangle, square or circle.
 Why i did it? I don't know... This is one of the first thing which I made during lerning SQL.
 
 #  Technology used
@@ -56,7 +56,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
 
 - Create View "Term_Table". Now You can see every not expire products
 - Create procedure "Inserting_Transaction", now You can start inserting bills.
-  This procedure except inserting has blocking function, witch doesn't allow You to insert new invoices or recipt,
+  This procedure except inserting has blocking function, which doesn't allow You to insert new invoices or recipt,
   if last bought product from same kind hasn't expired. If it's, You will see this warning.
          `Invoice can't be inserted, because the expiration date hasn't expired`
    
