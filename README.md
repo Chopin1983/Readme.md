@@ -41,7 +41,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
 
 ##  Terminy produktu
 - Create Table -> "Positions", "Products", "Employee", "Transaction" in this order.
-- Insert Values into these tables using INSERT INTO for "Position", and BULK INSERT for the "Products" and "Employee".
+- Insert Values into these tables using INSERT INTO for "Position", and BULK INSERT for "Products" and "Employee".
   If You want to Insert Your values, You have to Insert them by:
 
   Examples:
