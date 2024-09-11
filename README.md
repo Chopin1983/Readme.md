@@ -54,7 +54,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
              Values (1,'Sebastian','Es','Drogowa',12,7,Kraków,30000,12345678900,790000000,'M',1)
 
 
-- Create View "Term_Table". Now You can see every not expire products
+- Create View "Term_Table". Now You can see every not expiry products
 - Create procedure "Inserting_Transaction", now You can start inserting bills.
   This procedure except inserting has blocking function, which doesn't allow You to insert new invoices or recipt,
   if last bought product from same kind hasn't expired. If it's, You will see this warning.
