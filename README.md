@@ -62,7 +62,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
    
 - Create View "Term_Table". Now You can see every not expire products.
 
-  #### Those Tabels are protecting by triggers, whitch observing illegal activity like deleting or updating.
+  #### Those Tabels are protecting by triggers, which observing illegal activity like deleting or updating.
   #### If You are not interest this solution skip next move, if You are, continue instalation process.
 - Create Table "Transactions_Deleted" and Trigger "Trigger_Delete"
 - Create Table "Transactions_Update" and Trigger "Trigger_Update"
