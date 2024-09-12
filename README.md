@@ -66,3 +66,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
   #### If You are not interest this solution skip next move, if You are, continue instalation process.
 - Create Table "Transactions_Deleted" and Trigger "Trigger_Delete"
 - Create Table "Transactions_Update" and Trigger "Trigger_Update"
+- Create Table "Table_Available_Orders" and insert into values
+
+- Whole availeble commands can be cheked by:
+  ```sql Select * from Table_Available_Orders
