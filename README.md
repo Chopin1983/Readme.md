@@ -47,10 +47,10 @@ Why i did it? I don't know... This is one of the first thing which I made during
   Examples:
 
    ```sql
-            "INSERT INTO Products (ID_Product,Position,Product_Name,Expiry_Date,Refund_Amount)
+             INSERT INTO Products (ID_Product,Position,Product_Name,Expiry_Date,Refund_Amount)
              Values ('1A',1,'Ubranie robocze (bluza, spodnie)',48,170)
 
-            "INSERT INTO Employee (ID_Employee,Name,Last_Name,Street,Nr_Building,Nr_Apartment,City,Zip,PESEL,Phone,Sex,ID_Position)
+             INSERT INTO Employee (ID_Employee,Name,Last_Name,Street,Nr_Building,Nr_Apartment,City,Zip,PESEL,Phone,Sex,ID_Position)
              Values (1,'Sebastian','Es','Drogowa',12,7,Kraków,30000,12345678900,790000000,'M',1)
 
 
