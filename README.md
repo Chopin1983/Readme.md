@@ -69,4 +69,5 @@ Why i did it? I don't know... This is one of the first thing which I made during
 - Create Table "Table_Available_Orders" and insert into values
 
 - Whole availeble commands can be cheked by:
-  ```sql Select * from Table_Available_Orders
+  ```sql
+           Select * from Table_Available_Orders
