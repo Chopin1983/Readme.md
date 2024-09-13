@@ -80,6 +80,6 @@ Why i did it? I don't know... This is one of the first thing which I made during
   
   ```sql
       INSERT INTO Players (ID_Player,ID_Team,Players_Name,Nr,Position,Date_Of_Birth)
-      Values (130,'WisKra',
+      Values (130,'WisKra','Ángel Rodado',9,'Środkowy napastnik','1997-03-07')
 
 
