@@ -68,7 +68,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
 - Create Table "Transactions_Update" and Trigger "Trigger_Update"
 - Create Table "Table_Available_Orders" and insert into values
 
-  #### Every available commands can be cheked by:
+  #### Every available commands can be checked by:
   ```sql
            Select * from Table_Available_Orders
 
