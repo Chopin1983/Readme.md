@@ -71,3 +71,16 @@ Why i did it? I don't know... This is one of the first thing which I made during
   #### Every available commands can be cheked by:
   ```sql
            Select * from Table_Available_Orders
+
+
+  ##  Fortuna-1-liga
+  - Create table -> Match_Details, Matches, all tables with team lineups in this order
+  - Bulk insert all ready tables, or insert Yours by:
+
+  Example:
+  
+  ```sql
+      INSERT INTO Players (ID_Player,ID_Team,Players_Name,Nr,Position,Date_Of_Birth)
+      Values (130,'WisKra',
+
+
