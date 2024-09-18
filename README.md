@@ -11,7 +11,7 @@ It consists of four parts
 Was created, because in company where I work, we have reimbursement for things to wearing,
 but everyone has different "expiry date", and reimbursement amount.
 What its mean? 
-You can buy some t-shirt, but only one in one year period, and You can spend for it 100zł.
+You can buy some t-shirt, but only one in one year period and You can spend for it 100zł.
 Of course You can buy more expensive clothes, but You have to pay for difference between reimbursement and product value.
 You can also buy shoes, but this time only couple in two years period, and You have for that 250zł.
 For more details, I invite you to check this project.
@@ -62,7 +62,7 @@ Why i did it? I don't know... This is one of the first thing which I made during
    
 - Create View "Term_Table". Now You can see every not expire products.
 
-  #### Those Tabels are protecting by triggers, which observing illegal activity like deleting or updating.
+  #### Those Tables are protecting by triggers, which observing illegal activity like deleting or updating.
   #### If You are not interest this solution skip next move, if You are, continue instalation process.
 - Create Table "Transactions_Deleted" and Trigger "Trigger_Delete"
 - Create Table "Transactions_Update" and Trigger "Trigger_Update"
