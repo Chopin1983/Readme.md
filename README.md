@@ -1,6 +1,6 @@
 # 'Get a job'
 This project was created to find a job.
-It consists of four parts
+It consists of four parts.
 
 ## Terminy produktu
 ## Fortuna-1-liga
@@ -8,30 +8,30 @@ It consists of four parts
 ## Obliczanie pól
 
 ## - Terminy produktu (expiry date) 
-Was created, because in company where I work, we have reimbursement for things to wearing,
-but everyone has different "expiry date", and reimbursement amount.
-What its mean? 
-You can buy some t-shirt, but only one in one year period and You can spend for it 100zł.
-Of course You can buy more expensive clothes, but You have to pay for difference between reimbursement and product value.
-You can also buy shoes, but this time only couple in two years period, and You have for that 250zł.
+It was created, because the company which I work in, give us reimbursement for things to wear,
+but every thing has different "expiry date", and the reimbursement amount.
+What does it mean? 
+You can buy a t-shirt, but only one during the year, you can spend 100zł for it.
+You can buy more expensive clothes, but if you have for more money you pay the difference.
+You can also buy shoes, but this time only one pair each two years. You have 250zł for that purchase.
 For more details, I invite you to check this project.
-Because nobody care about it, i think to my self 'Maybe I'll do something interesting, that what can help"
+Because nobody cares about it, I think to myself 'Maybe I'll do something interesting what can help"
 And this is how this project started.
 
 ## - Fortuna-1-liga (Fortuna first league)
-This project was created, because I'm football fan, and my love club play in second division "I don't know how it happened".
-You can see, how "Fortuna 1 liga" (This is name of our second division) looked after 33 rounds, detail every match.
+This project was created, because I'm football fan, and my beloved club plays in the second division. (I don't know how it happened).
+You can see, how "Fortuna 1 liga" (This is the name of our second division) presented after 33 rounds, details of every match.
 You can insert details from current season and update table alive.
 
 ## - Mapa Polski (Polish map)
-About fifteen years I worked as sales representative, so I had been driving a car a lot by using Google Maps.
-I had been allways wondering, how it's like to make a map.
-That was my first thing, when I started study SQL, so I made a very small part of it.
+For about fifteen years I worked as a sales representative, so used to drive a car a lot by using Google Maps.
+I have always wondered, how it's like to make a map.
+That was my first thing, when I started to study SQL, so I made a very small part of it.
 
 ## - Obliczanie pól (field counting)
 This is very simple project.
-You can calculate fields for few shapes like triangle,  rectangle, square or circle.
-Why i did it? I don't know... This is one of the first thing which I made during lerning SQL.
+You can calculate fields for a few shapes like triangle, rectangle, square or circle.
+Why did I do it? I don't know... This is one of the first thing which I made during learning SQL.
 
 #  Technology used
 - SQL/T-SQL
@@ -54,15 +54,15 @@ Why i did it? I don't know... This is one of the first thing which I made during
              Values (1,'Sebastian','Es','Drogowa',12,7,Kraków,30000,12345678900,790000000,'M',1)
 
 
-- Create View "Term_Table". Now You can see every not expiry products
+- Create View "Term_Table". Now You can see every not expired product
 - Create procedure "Inserting_Transaction", now You can start inserting bills.
-  This procedure except inserting has blocking function, which doesn't allow You to insert new invoices or recipt,
-  if last bought product from same kind hasn't expired. If it's, You will see this warning.
+  This procedure except inserting has blocking function, which doesn't allow You to insert new invoices or recipts,
+  if last bought product from the same kind hasn't expired. If it has, You will see this warning.
          `Invoice can't be inserted, because the expiration date hasn't expired`
    
-- Create View "Term_Table". Now You can see every not expire products.
+- Create View "Term_Table". Now You can see every not expired product.
 
-  #### Those Tables are protecting by triggers, which observing illegal activity like deleting or updating.
+  #### Those Tables are protected by triggers, which observing illegal activity like deleting or updating.
   #### If You are not interest this solution skip next move, if You are, continue instalation process.
 - Create Table "Transactions_Deleted" and Trigger "Trigger_Delete"
 - Create Table "Transactions_Update" and Trigger "Trigger_Update"
@@ -75,6 +75,8 @@ Why i did it? I don't know... This is one of the first thing which I made during
 ##  Fortuna-1-liga
   - Create table -> Matches, all tables with team lineups, Players, Match_Details in this order
   - Bulk insert all ready tables, or insert Yours by:
+    Note: Every club has own code, like bottom. Wisła Kraków has numbers between 100 and 199.
+    It consist of 1 - is number of the team, 30 - is ID of the player (not on a T-shirt) in this team.
 
   Example:
   
