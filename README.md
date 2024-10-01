@@ -76,8 +76,8 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
   - Create table -> Matches, all tables with team lineups, Players, Match_Details in this order
   - Bulk insert all ready tables, or insert Yours by:
 
-#### Note: Every club has own code, like bottom. Wisła Kraków has numbers between 100 and 199.
-#### It consist of 1 - is number of the team, 30 - is ID of the player (not on a T-shirt) in this team.
+##### Note: Every club has own code, like bottom. Wisła Kraków has numbers between 100 and 199.
+##### It consist of 1 - is number of the team, 30 - is ID of the player (not on a T-shirt) in this team.
 
   Example:
   
