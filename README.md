@@ -62,13 +62,13 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
    
 - Create View "Term_Table". Now You can see every not expired product.
 
-  #### Those Tables are protected by triggers, which observing illegal activity like deleting or updating.
-  #### If You are not interest this solution skip next move, if You are, continue instalation process.
+#### Those Tables are protected by triggers, which observing illegal activity like deleting or updating.
+#### If You are not interest this solution skip next move, if You are, continue instalation process.
 - Create Table "Transactions_Deleted" and Trigger "Trigger_Delete"
 - Create Table "Transactions_Update" and Trigger "Trigger_Update"
 - Create Table "Table_Available_Orders" and insert into values
 
-  #### Every available commands can be checked by:
+#### Every available commands can be checked by:
   ```sql
            Select * from Table_Available_Orders
 
@@ -76,8 +76,8 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
   - Create table -> Matches, all tables with team lineups, Players, Match_Details in this order
   - Bulk insert all ready tables, or insert Yours by:
 
-   #### Note: Every club has own code, like bottom. Wisła Kraków has numbers between 100 and 199.
-   #### It consist of 1 - is number of the team, 30 - is ID of the player (not on a T-shirt) in this team.
+#### Note: Every club has own code, like bottom. Wisła Kraków has numbers between 100 and 199.
+#### It consist of 1 - is number of the team, 30 - is ID of the player (not on a T-shirt) in this team.
 
   Example:
   
