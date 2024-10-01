@@ -72,7 +72,7 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
   ```sql
            Select * from Table_Available_Orders
 
-##  Fortuna-1-liga
+## Fortuna-1-liga
   - Create table -> Matches, all tables with team lineups, Players, Match_Details in this order
   - Bulk insert all ready tables, or insert Yours by:
 
