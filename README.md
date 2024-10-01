@@ -52,7 +52,7 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
 
              INSERT INTO Employee (ID_Employee,Name,Last_Name,Street,Nr_Building,Nr_Apartment,City,Zip,PESEL,Phone,Sex,ID_Position)
              Values (1,'Sebastian','Es','Drogowa',12,7,Kraków,30000,12345678900,790000000,'M',1)
-
+   ```
 
 - Create View "Term_Table". Now You can see every not expired product
 - Create procedure "Inserting_Transaction", now You can start inserting bills.
@@ -71,7 +71,7 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
 #### Every available commands can be checked by:
   ```sql
            Select * from Table_Available_Orders
-
+  ```
 
 ##  Fortuna-1-liga
 - Create table -> Matches, all tables with team lineups, Players, Match_Details in this order
