@@ -116,5 +116,18 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
 - Create View Classification_1from2, Classification_2from2, Classification
 
 #### This is end. Every available commands you can see directly in the project
-                               
+
+##  Mapa Polski
+- Create tables Time and Distance
+- Bulk insert MapCzas2.csv and MapDistance2.csv
+- Create views TimeView and DistanceView
+- Finaly Create Procedure Map and that's all
+
+#### To find your way, use this simple execution
+
+  Example:
+
+```sql
+       exec Map 3, Kraków, Białystok
+```
 
