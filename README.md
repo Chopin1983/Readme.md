@@ -7,7 +7,7 @@ It consists of three parts.
 ## Mapa Polski
 
 ## - Terminy produktu (expiry date) 
-It was created, because the company where I work in, give us reimbursement for things to wear and
+It was created, because the company where I work in, give us reimbursement for things to wear, but
 every thing has different "expiry date", and the reimbursement amount.
 What does it mean? 
 You can buy a t-shirt, but only one during the year, you can spend 100zł for it.
