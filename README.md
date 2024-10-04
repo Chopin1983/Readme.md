@@ -73,7 +73,7 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
            Select * from Table_Available_Orders
   ```
 
-##  Fortuna-1-liga
+##  Fortuna-1-liga 
 - Create table -> Matches, all tables with team lineups, Players, Match_Details in this order
 - Bulk insert all ready tables, or insert Yours by:
 
@@ -87,4 +87,34 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
       INSERT INTO Players (ID_Player,ID_Team,Players_Name,Nr,Position,Date_Of_Birth)
       Values (130,'WisKra','Ángel Rodado',9,'Środkowy napastnik','1997-03-07')
 
+- Insert every tables of players to one table (Players)
+- Create Procedures Insertion_Matches, Insert_Details
+
+#### If you want to see the results of Fortuna 1 liga continue, or skip this.
+- Create table Wyniki_Excel
+- Bulk insert Wyniki_Excel.csv
+- Insert into Matches after, when you cleard and redone data from Wyniki_Excel
+
+#### If you skiped last instruction use bottom expression, if not skip this. 
+
+
+  Example:
+
+  ```sql
+      INSERT INTO Matches (Match,Home,Goal_Home,Goal_Away,Away,Match_Date,Round)
+      Values ('WisKra vs PolWar','WisKra', 5, 0, PolWar, '2023-07-01 17:30', 30)
+  ```
+- Create View Goals_Table. Now you can see total points, wins, draws and losses
+- Create View Table_Rounds_Goal. Now you can see table which counting a round (Matches), goals for and against.
+- Create View Final_Table. This view join last two views and for final table, series of last matches left to be added.
+- Create View Team_Series then Full_Series. Now you can see last five round.
+- Finaly Create View Tabela_Ostateczna_plus_series and now you have full view.
+- If you want see view of home and away table Create View Goal_Home, Final_Table_Home and Goals_Away, Final_Table_Away.
+
+#### Matches details
+- Create Procedure Details
+- Create View Classification_1from2, Classification_2from2, Classification
+
+#### This is end. Every available commands you can see directly in the project
+                               
 
