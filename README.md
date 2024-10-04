@@ -131,4 +131,6 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
        exec Map 3, Kraków, Białystok
 ```
 ##  Obliczanie pól
-- 
+- Create table Fields
+- Create functions Triangle, Square, Circle, Rectangle
+- Create View Field_of_Shapes
