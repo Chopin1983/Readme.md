@@ -130,4 +130,5 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
 ```sql
        exec Map 3, Kraków, Białystok
 ```
-
+##  Obliczanie pól
+- 
