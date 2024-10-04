@@ -2,9 +2,9 @@
 This project was created to find a job.
 It consists of three parts.
 
-## Terminy produktu
-## Fortuna-1-liga
-## Mapa Polski
+### Terminy produktu
+### Fortuna-1-liga
+### Mapa Polski
 
 ## - Terminy produktu (expiry date) 
 It was created, because the company where I work in, give us reimbursement for things to wear, but
