@@ -1,11 +1,10 @@
 # 'Get a job'
 This project was created to find a job.
-It consists of four parts.
+It consists of three parts.
 
 ## Terminy produktu
 ## Fortuna-1-liga
 ## Mapa Polski
-## Obliczanie pól
 
 ## - Terminy produktu (expiry date) 
 It was created, because the company where I work in, give us reimbursement for things to wear and
@@ -27,11 +26,6 @@ You can insert details from current season and update table alive.
 For about fifteen years I worked as a sales representative, so I used to drive a car a lot by using Google Maps.
 I have always wondered, how it's like to make a map.
 That was my first thing, when I started to study SQL, so I made a very small part of it.
-
-## - Obliczanie pól (field counting)
-This is very simple project.
-You can calculate fields for a few shapes like triangle, rectangle, square or circle.
-Why did I do it? I don't know... This is one of the first thing which I made during learning SQL.
 
 #  Technology used
 - SQL/T-SQL
@@ -130,7 +124,4 @@ Why did I do it? I don't know... This is one of the first thing which I made dur
 ```sql
        exec Map 3, Kraków, Białystok
 ```
-##  Obliczanie pól
-- Create table Fields
-- Create functions Triangle, Square, Circle, Rectangle
-- Create View Field_of_Shapes
+
