@@ -80,6 +80,7 @@ That was my first thing, when I started to study SQL, so I made a very small par
   ```sql
       INSERT INTO Players (ID_Player,ID_Team,Players_Name,Nr,Position,Date_Of_Birth)
       Values (130,'WisKra','Ángel Rodado',9,'Środkowy napastnik','1997-03-07')
+  ```
 
 - Insert every tables of players to one table (Players)
 - Create Procedures Insertion_Matches, Insert_Details
