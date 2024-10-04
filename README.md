@@ -8,11 +8,11 @@ It consists of four parts.
 ## Obliczanie pól
 
 ## - Terminy produktu (expiry date) 
-It was created, because the company which I work in, give us reimbursement for things to wear,
-but every thing has different "expiry date", and the reimbursement amount.
+It was created, because the company where I work in, give us reimbursement for things to wear and
+every thing has different "expiry date", and the reimbursement amount.
 What does it mean? 
 You can buy a t-shirt, but only one during the year, you can spend 100zł for it.
-You can buy more expensive clothes, but if you have for more money you pay the difference.
+You can buy more expensive clothes, but if its cost more, you have to pay the difference.
 You can also buy shoes, but this time only one pair each two years. You have 250zł for that purchase.
 For more details, I invite you to check this project.
 Because nobody cares about it, I think to myself 'Maybe I'll do something interesting what can help"
