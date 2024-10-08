@@ -126,3 +126,7 @@ That was my first thing, when I started to study SQL, so I made a very small par
        exec Map 3, Kraków, Białystok
 ```
 
+
+## Next step
+- Project are not finished, my next step will be.... (I'm hoping for some advice) :)
+- Thx for reading this
