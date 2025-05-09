@@ -110,7 +110,7 @@ That was my first thing, when I started studying SQL, so I made a very small par
 - Create Procedure Details
 - Create View Classification_1out_of2, Classification_2out_of2, Classification
 
-#### Below you can see how looked race to promotion to Ekstraklasa (Highest Polish division)
+#### Below you can see how race looked to promotion to Ekstraklasa (Highest Polish division) - Wisła Kraków vs. Top 6
 ![Chart with points](https://github.com/Chopin1983/Fortuna-1-Liga/blob/main/wisla-and-top-6-2025-05-09T11-02-51.088Z.jpg)
 ![Chart with goals](https://github.com/Chopin1983/Fortuna-1-Liga/blob/main/wisla-and-top-6-goals-2025-05-09T11-03-21.292Z.jpg)
 
