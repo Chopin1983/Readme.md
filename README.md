@@ -110,6 +110,9 @@ That was my first thing, when I started studying SQL, so I made a very small par
 - Create Procedure Details
 - Create View Classification_1out_of2, Classification_2out_of2, Classification
 
+#### Below you can see how looked race to promotion to Ekstraklasa (Highest polish division)
+
+
 #### This is the end. Every available command you can see directly in the project
 
 ##  Mapa Polski
